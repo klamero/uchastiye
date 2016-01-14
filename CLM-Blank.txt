@@ -1,0 +1,195 @@
+﻿schedules: 
+ week:
+  - date: 
+    reading: 
+    oSong: 
+    opening: 
+    chairman: 
+    treasures: 
+     part: 
+      - title: 
+        person: 
+        time: 10
+      - title: Отыскиваем духовные жемчужины
+        person: 
+        time: 8
+     student: 
+      - person: 
+        subject: Чтение Библии
+        description: 
+        lesson: 
+        time: 4
+    ministry: 
+     part: 
+      - title: 
+        person: 
+        time: 
+    living: 
+     song: 
+     part: 
+      - title: 
+        person: 
+        time: 
+     study:
+        material: 
+        conductor: 
+        reader: 
+        time: 30
+    cSong: 
+    closing: 
+  - date: 
+    reading: 
+    oSong: 
+    opening: 
+    chairman: 
+    treasures: 
+     part:
+      - title: 
+        person: 
+        time: 10
+      - title: Отыскиваем духовные жемчужины 
+        person: 
+        time: 8
+     student: 
+        person: 
+        subject: Чтение Библии
+        description: 
+        lesson: 
+        time: 4
+    ministry: 
+     student: 
+      - person: 
+        assistant: 
+        subject: Первое посещение
+        description: 
+        lesson: 
+        time: 2
+      - person: 
+        assistant: 
+        subject: Повторное посещение
+        description: 
+        lesson: 
+        time: 4
+      - person: 
+        assistant: 
+        subject: Изучение Библии
+        description: 
+        lesson: 
+        time: 6
+    living:
+     song:  
+     part:  
+      - title: 
+        person: 
+        time: 
+     study: 
+        material: 
+        conductor: 
+        reader: 
+        time: 30
+    cSong: 
+    closing: 
+  - date: 
+    reading: 
+    oSong: 
+    opening: 
+    chairman: 
+    treasures: 
+     part:
+      - title: 
+        person: 
+        time: 10
+      - title: Отыскиваем духовные жемчужины
+        person: 
+        time: 8
+     student: 
+        person: 
+        subject: Чтение Библии
+        description: 
+        lesson: 
+        time: 4
+    ministry: 
+     student: 
+      - person: 
+        assistant: 
+        subject: Первое посещение
+        description: 
+        lesson: 
+        time: 2
+      - person: 
+        assistant: 
+        subject: Повторное посещение
+        description: 
+        lesson: 
+        time: 4
+      - person: 
+        assistant: 
+        subject: Изучение Библии
+        description: 
+        lesson: 
+        time: 6
+    living: 
+     song: 
+     part:  
+      - title: 
+        person: 
+        time: 
+     study: 
+        material: 
+        conductor: 
+        reader: 
+        time: 30
+    cSong: 
+    closing: 
+  - date: 
+    reading: 
+    oSong: 
+    opening: 
+    chairman: 
+    treasures: 
+     part:
+      - title: 
+        person: 
+        time: 10
+      - title: Отыскиваем духовные жемчужины
+        person: 
+        time: 8
+     student: 
+        person: 
+        subject: Чтение Библии
+        description: 
+        lesson: 
+        time: 4
+    ministry: 
+     student: 
+      - person: 
+        assistant: 
+        subject: Первое посещение
+        description: 
+        lesson: 
+        time: 2
+      - person: 
+        assistant: 
+        subject: Повторное посещение
+        description: 
+        lesson: 
+        time: 4
+      - person: 
+        assistant: 
+        subject: Изучение Библии
+        description: 
+        lesson: 
+        time: 6
+    living: 
+     song: 
+     part:  
+      - title: 
+        person: 
+        time: 
+     study: 
+        material: 
+        conductor: 
+        reader: 
+        time: 30
+    cSong: 
+    closing: 

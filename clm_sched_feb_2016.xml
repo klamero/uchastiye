@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="clm_format.xsl"?>
+
+
+<schedules>
+    <week>
+        <date>1—7 февраля</date>
+        <reading>НЕЕМИЯ 1—4</reading>
+        <oSong>126</oSong>
+        <opening>C Breslin</opening>
+        <chairman>D Concini</chairman>
+        <treasures>
+            <part>
+                <title>«Неемия любил истинное поклонение»</title>
+                <person>H Miller</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>K Lamoreaux</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>J Lamoreaux</person>
+                <title>Чтение Библии</title>
+                <material>Не 3:1—14</material>
+                <lesson>7</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <part>
+                <title>Готовим преподнесения на этот месяц</title>
+                <person>D Concini</person>
+                <time>15</time>
+            </part>
+        </ministry>
+        <living>
+            <song>103</song>
+            <part>
+                <title>Планируй дела уже сейчас, чтобы служить подсобным пионером в марте или апреле</title>
+                <person>Y Centeno</person>
+                <time>15</time>
+            </part>
+            <study>
+                <material>ia гл. 8, абз. 1—16</material>
+                <conductor>D Caudill</conductor>
+                <reader>S Brizz</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>135</cSong>
+        <closing>A Lamoreaux</closing>
+    </week>
+    <week>
+        <date>8—14 февраля</date>
+        <reading>НЕЕМИЯ 5—8</reading>
+        <oSong>123</oSong>
+        <opening>D Bazhin</opening>
+        <chairman>Y Centeno</chairman>
+        <treasures>
+            <part>
+                <title>«Неемия был прекрасным руководителем»</title>
+                <person>D Concini</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>S Brizz</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>M Chonmurunov</person>
+                <title>Чтение Библии</title>
+                <material>Не 6:14—7:7а</material>
+                <lesson>5</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <student>
+                <person>Viktoria Bagatu Koshharka</person>
+                <assistant>Violeta Bagatu Koshharka</assistant>
+                <title>Первое посещение</title>
+                <description>Предложи текущий журнал «Пробудитесь!», обратив внимание на тему с обложки. Заложи основание для повторного посещения.</description>
+                <lesson>10</lesson>
+                <time>2</time>
+            </student>
+            <student>
+                <person>R Concini</person>
+                <assistant>L Lamoreaux</assistant>
+                <title>Повторное посещение</title>
+                <description>Повторно посети того, кто с интересом выслушал преподнесение на тему с обложки текущего журнала «Пробудитесь!». Заложи основание для следующего посещения.</description>
+                <lesson>37</lesson>
+                <time>4</time>
+            </student>
+            <student>
+                <person>L Bazhin</person>
+                <assistant>A Smith</assistant>
+                <title>Изучение Библии</title>
+                <description>Проведи изучение Библии (bh 28, абз. 4, 5).</description>
+                <lesson>16</lesson>
+                <time>6</time>
+            </student>
+        </ministry>
+        <living>
+            <song>62</song>
+            <part>
+                <title>Стремитесь ли вы к «доброму делу»?</title>
+                <person>K Lamoreaux</person>
+                <time>15</time>
+            </part>
+            <study>
+                <material>ia гл. 8, абз. 17—27, повторение главы</material>
+                <conductor>E Obertautsch</conductor>
+                <reader>J Lamoreaux</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>125</cSong>
+        <closing>C Vargas</closing>
+    </week>
+    <week>
+        <date>15—21 февраля</date>
+        <reading>НЕЕМИЯ 9—11</reading>
+        <opening>84</opening>
+        <chairman>D Concini</chairman>
+        <treasures>
+            <part>
+                <title>«Верные служители Бога поддерживают теократические мероприятия»</title>
+                <person>S Brizz</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>C Vargas</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>C Brezlin</person>
+                <title>Чтение Библии</title>
+                <material>Не 11:15—36</material>
+                <lesson>11</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <student>
+                <person>E Sanchez</person>
+                <assistant>A Lamoreaux</assistant>
+                <title>Первое посещение</title>
+                <description>Предложи текущий журнал «Пробудитесь!», обратив внимание на статью «Помощь семье. Как найти настоящих друзей». Заложи основание для повторного посещения.</description>
+                <lesson>6</lesson>
+                <time>2</time>
+            </student>
+            <student>
+                <person>D Arauz</person>
+                <assistant>LaRae Lamoreaux</assistant>
+                <title>Повторное посещение</title>
+                <description>Повторно посети того, кто проявил интерес к статье «Помощь семье. Как найти настоящих друзей» из текущего журнала «Пробудитесь!». Заложи основание для следующего посещения.</description>
+                <lesson>8</lesson>
+                <time>4</time>
+            </student>
+            <student>
+                <person>Y Centeno</person>
+                <assistant>J Centeno</assistant>
+                <title>Изучение Библии</title>
+                <description>Проведи изучение Библии (bh 32—33, абз. 13, 14).</description>
+                <lesson>1</lesson>
+                <time>6</time>
+            </student>
+        </ministry>
+        <living>
+            <song>19</song>
+            <part>
+                <title>«Лучший путь жизни»</title>
+                <person>D Caudill</person>
+                <time>15</time>
+            </part>
+            <study>
+                <material>ia гл. 9, абз. 1—13</material>
+                <conductor>K Lamoreaux</conductor>
+                <reader>Y Centeno</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>76</cSong>
+        <closing>A Lamoreaux</closing>
+    </week>
+    <week>
+        <date>22—28 февраля</date>
+        <reading>НЕЕМИЯ 12, 13</reading>
+        <oSong>106</oSong>
+        <opening>J Lamoreaux</opening>
+        <chairman>K Lamoreaux</chairman>
+        <treasures>
+            <part>
+                <title>«Практические уроки из книги Неемии»</title>
+                <person>E Obertausch</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>H Miller</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>D Bazhin</person>
+                <title>Чтение Библии</title>
+                <material>Не 12:1—26</material>
+                <lesson>10</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <student>
+                <person>C Esprit</person>
+                <assistant>L Arauz</assistant>
+                <title>Первое посещение</title>
+                <description>Предложи приглашение на Вечерю тому, кто проявляет небольшой интерес.</description>
+                <lesson>1</lesson>
+                <time>2</time>
+            </student>
+            <student>
+                <person>L Miller</person>
+                <assistant>J Rivera</assistant>
+                <title>Первое посещение</title>
+                <description>Предложи приглашение на Вечерю и «Сторожевую башню» тому, кто проявляет искренний интерес. Заложи основание для следующего посещения.</description>
+                <lesson>3</lesson>
+                <time>4</time>
+            </student>
+            <student>
+                <person>A Medina</person>
+                <assistant>C Caudill</assistant>
+                <title>Изучение Библии</title>
+                <description>С помощью материала из книги «Чему учит Библия», с. 206—208, расскажи изучающему о Вечере. Предложи помощь, чтобы изучающий мог прийти на Вечерю.</description>
+                <lesson>36</lesson>
+                <time>6</time>
+            </student>
+        </ministry>
+        <living>
+            <song>5</song>
+            <part>
+                <title>«Пригласите на Вечерю всех людей в вашей местности!»</title>
+                <person>D Concini</person>
+                <time>15</time>
+            </part>
+            <study>
+                <material>ia гл. 9, абз. 14—24, повторение главы</material>
+                <conductor>Y Centeno</conductor>
+                <reader>D Bazhin</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>39</cSong>
+        <closing>D Caudill</closing>
+    </week>
+</schedules>

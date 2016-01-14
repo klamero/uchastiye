@@ -1,0 +1,154 @@
+﻿@media screen {
+    * {
+        margin: 5px;
+    }
+
+    header, section, article {
+        display: block;
+    }
+
+    body {
+        font-family: Verdana, Geneva, sans-serif;
+        background-color: #D6EAFF;
+    }
+
+    div#wrap {
+        background-color: white;
+        margin: 0px auto;
+        margin-top: 20px;
+        width: 1200px;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        box-shadow: rgb(51, 51, 51) 10px 0px 30px, rgb(51, 51, 51) -10px 0px 30px;
+        padding-bottom: 25px;
+        border-radius: 15px;
+    }
+
+    div#head_title{
+        background: -o-linear-gradient(#4a6da7, #335691);
+        background: -moz-linear-gradient(#4a6da7, #335691);
+        background: -webkit-linear-gradient(#4a6da7, #335691);
+        background: linear-gradient(#4a6da7, #335691);
+        padding: 15px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+    div#navbar{
+        background: -o-linear-gradient(#2f798f, #185263);
+        background: -moz-linear-gradient(#2f798f, #185263);
+        background: -webkit-linear-gradient(#2f798f, #185263);
+        background: linear-gradient(#2f798f, #185263);
+        margin-top: 0px;
+        padding: 5px;
+        text-align: center;
+    }
+
+    div#navbar ul{
+        list-style-type: none;
+    }
+
+    div#navbar li{
+        display: inline;
+    }
+
+    div#navbar a{
+        color: black;
+    }
+
+    table#dateTable {
+        width: 100%;
+    }
+
+    table#assignments {
+        width: 99%;
+    }
+
+    table#assignments td {
+        width: 33%;
+    }
+
+    div#treasures {
+        border: 1px solid black;
+        height: 200px;
+    }
+
+    div#ministry {
+        border: 1px solid black;
+        height: 200px;
+    }
+
+    div#living {
+        border: 1px solid black;
+        height: 200px;
+    }
+    
+    td#treasure {
+        font-size: 18px;
+        color: white;
+        background-color: #606A70;
+        text-align: center;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+
+    td#ministry {
+        font-size: 18px;
+        color: white;
+        background-color: #C18626;
+        text-align: center;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+
+    td#living {
+        font-size: 18px;
+        color: white;
+        background-color: #961526;
+        text-align: center;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+
+    div#person {
+        width: 75%;
+        float: left;
+        font-weight: bold;
+        font-size: 16px;
+    }
+
+    div#time {
+        text-align: right;
+        width: 18%;
+        float: right;
+    }
+
+    div#title {
+        font-style: italic;
+        text-indent: 5px;
+        float: left;
+        clear: both;
+        width: 75%;
+    }
+
+    div#title_part {
+        font-style: italic;
+        text-indent: 5px;
+        clear: both;
+    }
+
+    div#lesson {
+        text-align: right;
+        float: right;
+    }
+
+    div#conductor {
+        float: left;
+        line-height: 50%;
+    }
+
+    div#reader {
+        width: 35%;
+        float: right;
+    }
+}

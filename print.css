@@ -1,0 +1,123 @@
+﻿@media print {
+    body{
+        width: 1200px;
+    }
+
+
+    div#navbar{
+        display: none;
+    }
+
+    table#dateTable {
+        width: 100%;
+        max-height: 25px;
+        vertical-align: bottom;
+    }
+
+    table#dateTable td{
+        font-size: 20px;
+    }
+
+    table#assignments {
+        width: 99%;
+    }
+
+    table#assignments td {
+        width: 33%;
+    }
+
+    div#treasures {
+        border: 1px solid black;
+        height: 200px;
+    }
+
+    div#ministry {
+        border: 1px solid black;
+        height: 200px;
+    }
+
+    div#living {
+        border: 1px solid black;
+        height: 200px;
+    }
+
+    td#treasure {
+        font-size: 18px;
+        color: white;
+        background-color: #606A70;
+        text-align: center;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+
+    td#ministry {
+        font-size: 18px;
+        color: white;
+        background-color: #C18626;
+        text-align: center;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+
+    td#living {
+        font-size: 18px;
+        color: white;
+        background-color: #961526;
+        text-align: center;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+
+    div#person {
+        width: 72%;
+        float: left;
+        font-weight: bold;
+        font-size: 20px;
+        padding-left: 8px;
+        padding-top: 5px;
+    }
+
+    div#time {
+        text-align: right;
+        width: 20%;
+        float: right;
+    }
+
+    div#title {
+        font-style: italic;
+        text-indent: 10px;
+        float: left;
+        clear: both;
+        width: 70%;
+        font-size: 20px;
+    }
+
+    div#title_part {
+        font-style: italic;
+        text-indent: 10px;
+        clear: both;
+        font-size: 20px;
+    }
+
+    div#lesson {
+        text-align: right;
+        float: right;
+    }
+
+    div#conductor {
+       float: left;
+       line-height: 50%;
+       text-indent: 10px;
+    }
+
+    div#reader {
+        width: 35%;
+        float: right;
+    }
+}
+
+
+@page {
+     size: 8.5in 11in portrait;
+     margin: 0.5in;
+}

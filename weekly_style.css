@@ -1,0 +1,90 @@
+﻿    body{
+        width: 1200px;
+        font-size: 20px;
+    }
+
+    table{
+        border-style: solid;
+        border-width: 1px;
+        width: 95%;
+    }
+
+    table#treasure {
+        background-color: #606A70;
+    }
+
+    table#ministry {
+        background-color: #C18626;
+    }
+
+    table#living {
+        background-color: #961526;
+    }
+
+    td{
+        border-style: solid;
+        border-width: 1px;
+        padding-left: 3px;
+    }
+
+    table#close {
+        margin-bottom: 400px;
+    }
+
+    div#treasures {
+        border: 1px solid black;
+        height: 220px;
+    }
+
+    div#ministry {
+        border: 1px solid black;
+        height: 220px;
+    }
+
+    div#living {
+        border: 1px solid black;
+        height: 220px;
+    }
+
+    tr#treasure {
+        font-size: 28px;
+        color: white;
+        background-color: #606A70;
+    }
+
+    td#time {
+        font-size: 27px;
+        text-align: right;
+    }
+
+    tr#ministry {
+        font-size: 28px;
+        color: white;
+        background-color: #C18626;
+    }
+
+    tr#living {
+        font-size: 28px;
+        color: white;
+        background-color: #961526;
+    }
+
+    td#student {
+        width: 35%;
+    }
+
+    td#studentLesson {
+        width: 10%;
+    }
+
+    td#studentDesc {
+        width: 40%;
+    }
+
+    td#studentTitle {
+        width: 15%;
+    }
+
+    td#studentRead {
+        width: 55%;
+    }

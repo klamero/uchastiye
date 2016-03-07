@@ -9,7 +9,7 @@
 
     body {
         font-family: Verdana, Geneva, sans-serif;
-        background-color: #D6EAFF;
+        background-color: white;
     }
 
     div#wrap {
@@ -24,36 +24,22 @@
         border-radius: 15px;
     }
 
-    div#head_title{
+    div#header{
         background: -o-linear-gradient(#4a6da7, #335691);
         background: -moz-linear-gradient(#4a6da7, #335691);
         background: -webkit-linear-gradient(#4a6da7, #335691);
         background: linear-gradient(#4a6da7, #335691);
+    }
+
+    div#head_title{
         padding: 15px;
-        margin-bottom: 0px;
+        margin: 0px auto;
         text-align: center;
     }
 
     div#navbar{
-        background: -o-linear-gradient(#2f798f, #185263);
-        background: -moz-linear-gradient(#2f798f, #185263);
-        background: -webkit-linear-gradient(#2f798f, #185263);
-        background: linear-gradient(#2f798f, #185263);
-        margin-top: 0px;
-        padding: 5px;
+        margin: 0px initial;
         text-align: center;
-    }
-
-    div#navbar ul{
-        list-style-type: none;
-    }
-
-    div#navbar li{
-        display: inline;
-    }
-
-    div#navbar a{
-        color: black;
     }
 
     table#dateTable {

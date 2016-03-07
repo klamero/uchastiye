@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="html" doctype-system="about:legacy-compat" encoding="UTF-8" indent="yes" />
-  <xsl:variable name="schedule" select="document('clm_sched.xml')" />
   <xsl:key name="week" match="week" use="date" />
   <xsl:key name="part" match="part" use="title"/>
 
@@ -9,6 +8,11 @@
     <html>
       <head>
         <title>Русский Орландо График Встреча в Будни</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
         <link href="styles.css" rel="stylesheet" />
         <link rel="stylesheet" href="print.css" />
       </head>
@@ -17,6 +21,26 @@
             <div id="head_title">
               <h2>Встреча в Будни</h2>
             </div>
+     <div id="navbar">
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="index.html">HOME</a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">CLM <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="clm_sched_feb_2016.xml">February</a></li>
+                            <li><a href="clm_sched_mar_2016.xml">March</a></li>
+                            <li><a href="clm_sched_apr_2016.xml">April</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Coming Soon</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
           </div>
         <div id="wrap">
           <xsl:for-each select="//week[generate-id()=generate-id(key('week', date)[1])]">

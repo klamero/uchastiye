@@ -1,0 +1,46 @@
+﻿div#header{
+    display: block;
+    background: -o-linear-gradient(#4a6da7, #335691);
+    background: -moz-linear-gradient(#4a6da7, #335691);
+    background: -webkit-linear-gradient(#4a6da7, #335691);
+    background: linear-gradient(#4a6da7, #335691);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+}
+
+header{
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+}
+
+div#navbar{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+div#body{
+    background-color: white;
+    width: 900px;
+    height: 550px;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    box-shadow: rgb(51, 51, 51) 10px 0px 30px, rgb(51, 51, 51) -10px 0px 30px;
+    padding: 10px;
+    border-radius: 15px;
+    float: left;
+    margin-left: 50px;
+}
+
+div#side{
+    background-color: #335691;
+    width: 260px;
+    height: 450px;
+    border: 2px solid rgb(51, 51, 51);
+    box-shadow: rgb(51, 51, 51) 10px 0px 30px, rgb(51, 51, 51) -10px 0px 30px;
+    padding: 10px;
+    border-radius: 15px;
+    margin-right: 50px;
+    float: right;
+}

@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<?xml-stylesheet type="text/xsl" href="clm_format.xsl"?>
+
+
+
+<schedules>
+    <week>
+        <date>7 по 13 марта</date>
+        <reading>ЭСФИРЬ 6 по 10</reading>
+        <oSong>131</oSong>
+        <opening>J Lamoreaux</opening>
+        <chairman>E Obertautsch</chairman>
+        <treasures>
+            <part>
+                <title>«Эсфирь действовала самоотверженно ради Иеговы и его народа»</title>
+                <person>K Lamoreaux</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>D Concini</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>E Sanchez</person>
+                <title>Чтение Библии</title>
+                <material>Эсфирь 8:1 по 9</material>
+                <lesson>7</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <part>
+                <title>Готовим преподнесения на этот месяц</title>
+                <person>C Vargas</person>
+                <time>15</time>
+            </part>
+        </ministry>
+        <living>
+            <song>118</song>
+            <part>
+                <title>«Радушно принимаем гостей»</title>
+                <person>S Brizz</person>
+                <time>15</time>
+            </part>
+            <study>
+                <material>ia глава 10, абзацы 12 по 21 и повторение главы</material>
+                <conductor>D Caudill</conductor>
+                <reader>C Breslin</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>147</cSong>
+        <closing>D Bazhin</closing>
+    </week>
+    <week>
+        <date>14 по 20 марта</date>
+        <reading>ИОВ 1 по 5</reading>
+        <oSong>89</oSong>
+        <opening>A Lamoreaux</opening>
+        <chairman>H Miller</chairman>
+        <treasures>
+            <part>
+                <title>«Иов сохранил непорочность в испытаниях»</title>
+                <person>Y Centeno</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>K Lamoreaux</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>Alex Shkuratov</person>
+                <title>Чтение Библии</title>
+                <description>Иов 4:1 по 21</description>
+                <lesson>14</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <student>
+                <person>B Slade</person>
+                <assistant>A Obertautsch</assistant>
+                <title>Первое посещение</title>
+                <description>\[«Сторожевая башня» (для распространения), выпуск номер 2 2016\]. Заложи основание для повторного посещения</description>
+                <lesson>3</lesson>
+                <time>2</time>
+            </student>
+            <student>
+                <person>N Whyte</person>
+                <assistant>P Quarles</assistant>
+                <title>Повторное посещение</title>
+                <description>wp16.2 (обложка). Заложи основание для следующего посещения</description>
+                <lesson>4</lesson>
+                <time>4</time>
+            </student>
+            <student>
+                <person>J Lamoreaux</person>
+                <assistant>C Breslin</assistant>
+                <title>Изучение Библии</title>
+                <description>fg [брошюра «Добрая весть от Бога»], урок 2, абзацы 2, 3</description>
+                <lesson>6</lesson>
+                <time>6</time>
+            </student>
+        </ministry>
+        <living>
+            <song>88</song>
+            <part>
+                <title>«Противостой давлению сверстников!»</title>
+                <person>D Caudill</person>
+                <time>15</time>
+            </part>
+            <study>
+                <material>ia глава 11, абзацы 1 по 11</material>
+                <conductor>E Obertautsch</conductor>
+                <reader>K Lamoreaux</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>149</cSong>
+        <closing>D Caudill</closing>
+    </week>
+    <week>
+        <date>21 по 27 марта</date>
+        <reading>ИОВ 6 по 10</reading>
+        <oSong>68</oSong>
+        <opening>C Breslin</opening>
+        <chairman>D Caudill</chairman>
+        <treasures>
+            <part>
+                <title>«Богобоязненный Иов изливает свое горе»</title>
+                <person>S Brizz</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>E Obertautsch</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>D Bazhin</person>
+                <title>Чтение Библии</title>
+                <material>Иов 9:1 по 21</material>
+                <lesson>11</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <student>
+                <person>A Smith</person>
+                <assistant>K Anderson</assistant>
+                <title>Первое посещение</title>
+                <description>wp16.2 16. Упомяни о добровольных пожертвованиях</description>
+                <lesson>4</lesson>
+                <time>2</time>
+            </student>
+            <student>
+                <person>C Breslin</person>
+                <assistant>M Chonmurunov</assistant>
+                <title>Повторное посещение</title>
+                <description>wp16.2 16. Заложи основание для следующего</description>
+                <lesson>12</lesson>
+                <time>4</time>
+            </student>
+            <student>
+                <person>K Largacha</person>
+                <assistant>A Filter</assistant>
+                <title>Изучение Библии</title>
+                <description>fg, урок 2, абзацы 6 по 8</description>
+                <lesson>6</lesson>
+                <time>6</time>
+            </student>
+        </ministry>
+        <living>
+            <song>114</song>
+            <part>
+                <title>Утешая других, проявляйте понимание</title>
+                <person>Y Centeno</person>
+                <time>15</time>
+            </part>
+            <study>
+                <material>ia глава 11, абзацы 12 по 20 и повторение главы</material>
+                <conductor>H Miller</conductor>
+                <reader>J Lamoreaux</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>27</cSong>
+        <closing>S Brizz</closing>
+    </week>
+    <week>
+        <date>28 марта—3 апреля</date>
+        <reading>ИОВ 11 по 15</reading>
+        <oSong>111</oSong>
+        <opening>E Obertautsch</opening>
+        <chairman>D Concini</chairman>
+        <treasures>
+            <part>
+                <title>«Иов твердо верил в воскресение»</title>
+                <person>D Caudill</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>D Bazhin</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>S Brizz</person>
+                <title>Чтение Библии</title>
+                <material>Иов 14:1 по 22</material>
+                <lesson>3</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <student>
+                <person>Linda Lamoreaux</person>
+                <assistant>L Bazhin</assistant>
+                <title>Первое посещение</title>
+                <description>fg, урок 13, абзац 1. Заложи основание для повторного посещения</description>
+                <lesson>4</lesson>
+                <time>2</time>
+            </student>
+            <student>
+                <person>J Centeno</person>
+                <assistant>V Bagatu</assistant>
+                <title>Повторное посещение</title>
+                <description>fg, урок 13, абзац 2. Заложи основание для следующего посещения</description>
+                <lesson>4</lesson>
+                <time>4</time>
+            </student>
+            <student>
+                <person>R Concini</person>
+                <assistant>LaRae Lamoreaux</assistant>
+                <title>Изучение Библии</title>
+                <description>fg, урок 13, абзацы 3, 4</description>
+                <lesson>38</lesson>
+                <time>6</time>
+            </student>
+        </ministry>
+        <living>
+            <song>134</song>
+            <part>
+                <title>Местные потребности</title>
+                <person>TBD</person>
+                <time>5</time>
+            </part>
+            <part>
+                <title>«Выкуп дает надежду на воскресение»</title>
+                <person>K Lamoreaux</person>
+                <time>10</time>
+            </part>
+            <study>
+                <material>ia глава 12, абзацы 1 по 12</material>
+                <conductor>Y Centeno</conductor>
+                <reader>D Bazhin</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>33</cSong>
+        <closing>H Miller</closing>
+    </week>
+</schedules>

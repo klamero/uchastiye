@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="weekly_format.xsl"?>
+
+<schedules>
+    <week>
+        <reading>2 ЛЕТОПИСЬ 29—32</reading>
+        <oSong>114</oSong>
+        <cSong>142</cSong>
+        <chairman>E Obertautsch</chairman>
+        <closing>C Vargas</closing>
+        <date>4—10 января</date>
+        <living>
+            <song>127</song>
+            <part>
+                <person>K Lamoreaux</person>
+                <time>15</time>
+                <title>«Строить и обслуживать места для поклонения Богу — огромная честь» </title>
+            </part>
+            <study>
+                <material>ia гл. 6, абз. 1—14</material>
+                <conductor>H Miller</conductor>
+                <reader>D Bazhin</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <ministry>
+            <part>
+                <person>E Obertautsch</person>
+                <time>15</time>
+                <title>Готовим преподнесения на этот месяц</title>
+            </part>
+        </ministry>
+        <opening>A Lamoreaux</opening>
+        <treasures>
+            <part>
+                <person>D Caudill</person>
+                <time>10</time>
+                <title>«В истинном поклонении нужны усилия»</title>
+            </part>
+            <part>
+                <person>S Brizz</person>
+                <time>8</time>
+                <title>Отыскиваем духовные жемчужины</title>
+            </part>
+            <student>
+                <title>Чтение Библии</title>
+                <material>2Лт 31:1—10</material>
+                <lesson>11</lesson>
+                <person>C Breslin</person>
+                <time>4</time>
+            </student>
+        </treasures>
+    </week>
+    <week>
+        <chairman>D Concini</chairman>
+        <reading>2 ЛЕТОПИСЬ 33—36</reading>
+        <oSong>35</oSong>
+        <cSong>6</cSong>
+        <closing>E Obertausch</closing>
+        <date>11—17 января</date>
+        <living>
+            <song>77</song>
+            <part>
+                <person>D Caudill</person>
+                <time>10</time>
+                <title>Важную роль играет раскаяние</title>
+            </part>
+            <part>
+                <person>A Lamoreaux</person>
+                <time>5</time>
+                <title>Прощай великодушно</title>
+            </part>
+            <study>
+                <material>ia гл. 6, абз. 15—23, рамка «Две особенные молитвы» и повторение главы</material>
+                <conductor>K Lamoreaux</conductor>
+                <reader>J Lamoreaux</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <ministry>
+            <student>
+                <assistant>L Bazhin</assistant>
+                <description>Сделай преподнесение на тему с обложки текущей «Сторожевой башни». Заложи основание для повторного посещения.</description>
+                <lesson>23</lesson>
+                <person>C Caudill</person>
+                <title>Первое посещение</title>
+                <time>2</time>
+            </student>
+            <student>
+                <assistant>C Esprit</assistant>
+                <lesson>4</lesson>
+                <person>LaRae Lamoreaux</person>
+                <title>Повторное посещение</title>
+                <description>Повторно посети того, кто с интересом выслушал преподнесение на тему с обложки текущей «Сторожевой башни». Заложи основание для следующего посещения.</description>
+                <time>4</time>
+            </student>
+            <student>
+                <assistant>A Medina</assistant>
+                <lesson>14</lesson>
+                <person>L Arauz</person>
+                <title>Изучение Библии</title>
+                <description>Проведи изучение Библии (bh 9—10, абз. 6, 7).</description>
+                <time>6</time>
+            </student>
+        </ministry>
+        <opening>C Breslin</opening>
+        <treasures>
+            <part>
+                <person>H Miller</person>
+                <time>10</time>
+                <title>«Иегова ценит подлинное раскаяние»</title>
+            </part>
+            <part>
+                <person>C Vargas</person>
+                <time>8</time>
+                <title>Отыскиваем духовные жемчужины</title>
+            </part>
+            <student>
+                <title>Чтение Библии</title>
+                <material>2Лт 34:22—33</material>
+                <lesson>5</lesson>
+                <person>E Sanchez</person>
+                <time>4</time>
+            </student>
+        </treasures>
+    </week>
+    <week>
+        <chairman>D Caudill</chairman>
+        <reading>ЕЗДРА 1—5</reading>
+        <oSong>85</oSong>
+        <cSong>41</cSong>
+        <closing>C Vargas</closing>
+        <date>18—24 января</date>
+        <living>
+            <song>40</song>
+            <part>
+                <person>D Concini</person>
+                <time>5</time>
+                <title>«Все это будет дано вам»</title>
+            </part>
+            <part>
+                <person>K Lamoreaux</person>
+                <time>10</time>
+                <title>Ваши слова: «„Да“ и при этом „нет“»?</title>
+            </part>
+            <study>
+                <material>ia гл. 7, абз. 1—14</material>
+                <conductor>E Obertaustch</conductor>
+                <reader>S Brizz</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <ministry>
+            <student>
+                <assistant>L Miller</assistant>
+                <lesson>5</lesson>
+                <person>J Joseph</person>
+                <title>Первое посещение</title>
+                <description>Сделай преподнесение последней статьи текущей «Сторожевой башни». Заложи основание для повторного посещения.</description>
+                <time>2</time>
+            </student>
+            <student>
+                <assistant>C Tatum</assistant>
+                <lesson>3</lesson>
+                <person>L Lewis</person>
+                <description>Повторно посети того, кто с интересом выслушал преподнесение последней статьи текущей «Сторожевой башни». Заложи основание для следующего посещения.</description>
+                <title>Повторное посещение</title>
+                <time>4</time>
+            </student>
+            <student>
+                <assistant>L Kravchenko</assistant>
+                <lesson>3</lesson>
+                <person>J Rivera</person>
+                <description>Проведи изучение Библии (bh 20, абз. 6—8).</description>
+                <title>Изучение Библии</title>
+                <time>6</time>
+            </student>
+        </ministry>
+        <opening>D Bazhin</opening>
+        <treasures>
+            <part>
+                <person>S Brizz</person>
+                <time>10</time>
+                <title>«Иегова исполняет свои обещания» </title>
+            </part>
+            <part>
+                <person>D Bazhin</person>
+                <time>8</time>
+                <title>Отыскиваем духовные жемчужины</title>
+            </part>
+            <student>
+                <lesson>4</lesson>
+                <person>H Miller</person>
+                <title>Чтение Библии</title>
+                <material>Езд 3:10—4:7</material>
+                <time>4</time>
+            </student>
+        </treasures>
+    </week>
+    <week>
+        <chairman>K Lamoreaux</chairman>
+        <reading>ЕЗДРА 6—10</reading>
+        <oSong>10</oSong>
+        <cSong>120</cSong>
+        <closing>D Bazhin</closing>
+        <date>25—31 января</date>
+        <living>
+            <song>138</song>
+            <part>
+                <person>C Vargas</person>
+                <time>7</time>
+                <title>«Совершенствуем навыки служения. Как заложить основание...»</title>
+            </part>
+            <part>
+                <person>D Caudill</person>
+                <time>8</time>
+                <title>Местные потребности</title>
+            </part>
+            <study>
+                <material>ia гл. 7, абз. 15—27 и повторение главы</material>
+                <conductor>H Miller</conductor>
+                <reader>D Concini</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <ministry>
+            <student>
+                <assistant>N Whyte</assistant>
+                <lesson>5</lesson>
+                <person>K Largacha</person>
+                <title>Первое посещение</title>
+                <description>Предложи брошюру «Добрая весть» и обсуди урок 8, вопрос 1, абз. 1. Заложи основание для повторного посещения.</description>
+                <time>2</time>
+            </student>
+            <student>
+                <assistant>A Filter</assistant>
+                <lesson>2</lesson>
+                <person>B Slade</person>
+                <title>Повторное посещение</title>
+                <description>Повторно посети того, кому ты оставил брошюру «Добрая весть». Обсуди урок 8, вопрос 1, абз. 2. Заложи основание для следующего посещения.</description>
+                <time>4</time>
+            </student>
+            <student>
+                <assistant>K Anderson</assistant>
+                <lesson>25</lesson>
+                <person>P Quarles</person>
+                <title>Изучение Библии</title>
+                <description>Проведи изучение Библии с помощью брошюры «Добрая весть», урок 8, вопрос 2.</description>
+                <time>6</time>
+            </student>
+        </ministry>
+        <opening>J Lamoreaux</opening>
+        <treasures>
+            <part>
+                <person>D Concini</person>
+                <time>10</time>
+                <title>«Иегова желает, чтобы ему служили от сердца»</title>
+            </part>
+            <part>
+                <person>H Miller</person>
+                <time>8</time>
+                <title>Отыскиваем духовные жемчужины</title>
+            </part>
+            <student>
+                <lesson>13</lesson>
+                <title>Чтение Библии</title>
+                <material>Езд 7:18—28</material>
+                <person>A Shkuratov</person>
+                <time>4</time>
+            </student>
+        </treasures>
+    </week>
+</schedules>

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<?xml-stylesheet type="text/xsl" href="clm_format.xsl"?>
+
+<schedules>
+    <week>
+        <date>4—10 апреля - Районный конгресс</date>
+        <reading />
+        <oSong />
+        <opening />
+        <chairman />
+        <treasures />
+        <ministry />
+        <cSong />
+        <closing />
+    </week>
+    <week>
+        <date>11—17 апреля</date>
+        <reading>ИОВ 21—27</reading>
+        <oSong>83</oSong>
+        <opening>J Lamoreaux</opening>
+        <chairman>K Lamoreaux</chairman>
+        <treasures>
+            <part>
+                <title>«Иов противостоял ошибочным взглядам»</title>
+                <person>D Bazhin</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>K Lamoreaux</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>D Caudill</person>
+                <title>Чтение Библии</title>
+                <description>Иов 27:1—23</description>
+                <lesson>3</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <student>
+                <person>A Filter</person>
+                <assistant>C Esprit</assistant>
+                <title>Первое посещение</title>
+                <description>g16.2 (обложка). Заложи основание для повторного посещения.</description>
+                <lesson>4</lesson>
+                <time>2</time>
+            </student>
+            <student>
+                <person>K Anderson</person>
+                <assistant>D Arauz</assistant>
+                <title>Повторное посещение</title>
+                <description>g16.2 (обложка). Заложи основание для следующего посещения.</description>
+                <lesson>8</lesson>
+                <time>4</time>
+            </student>
+            <student>
+                <person>K Largacha</person>
+                <assistant>L Miller</assistant>
+                <title>Изучение Библии</title>
+                <description>bh 145, абз. 3, 4</description>
+                <lesson>8</lesson>
+                <time>6</time>
+            </student>
+        </ministry>
+        <living>
+            <song>129</song>
+            <part>
+                <title>«Дай отпор хулиганам, не пуская в ход кулаки»</title>
+                <person>D Concini</person>
+                <time>15</time>
+            </part>
+            <study>
+                <material>ia гл. 13, абз. 1—12</material>
+                <conductor>E Obertautsch</conductor>
+                <reader>C Breslin</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>23</cSong>
+        <closing>S Brizz</closing>
+    </week>
+    <week>
+        <date>18—24 апреля (в ЧГ)</date>
+        <reading>Иов 28—32</reading>
+        <oSong>17</oSong>
+        <opening>A Lamoreaux</opening>
+        <chairman>Y Centeno</chairman>
+        <treasures>
+            <part>
+                <title>«Иов подал пример непорочности»</title>
+                <person>S Brizz</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>D Caudill</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>C Breslin</person>
+                <title>Чтение Библии</title>
+                <description>Иов 30:24—31:14</description>
+                <lesson>13</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <student>
+                <person>A Medina</person>
+                <assistant>L Lewis</assistant>
+                <title>Первое посещение</title>
+                <description>g16.2 12—13. Заложи основание для повторного посещения.</description>
+                <lesson>36</lesson>
+                <time>2</time>
+            </student>
+            <student>
+                <person>L Arauz</person>
+                <assistant>B Slade</assistant>
+                <title>Повторное посещение</title>
+                <description>g16.2 12—13. Заложи основание для следующего посещения.</description>
+                <lesson>15</lesson>
+                <time>4</time>
+            </student>
+            <student>
+                <person>J Rivera</person>
+                <assistant>P Quarles</assistant>
+                <title>Изучение Библии</title>
+                <description>bh 148, абз. 8, 9</description>
+                <lesson>4</lesson>
+                <time>6</time>
+            </student>
+        </ministry>
+        <living>
+            <song>115</song>
+            <part>
+                <title>Учимся из примеров непорочности (1Пт 5:9)</title>
+                <person>H Miller</person>
+                <time>15</time>
+            </part>
+            <study>
+                <material>ia гл. 13, абз. 13—25 и повторение главы</material>
+                <conductor>Y Centeno</conductor>
+                <reader>J Lamoreaux</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>81</cSong>
+        <closing>D Bazhin</closing>
+    </week>
+    <week>
+        <date>25 апреля — 1 мая</date>
+        <reading>Иов 33—37</reading>
+        <oSong>50</oSong>
+        <opening>H Miller</opening>
+        <chairman>D Concini</chairman>
+        <treasures>
+            <part>
+                <title>«Настоящий друг всегда даст здравый совет»</title>
+                <person>C Vargas</person>
+                <time>10</time>
+            </part>
+            <part>
+                <title>Отыскиваем духовные жемчужины</title>
+                <person>Y Centeno</person>
+                <time>8</time>
+            </part>
+            <student>
+                <person>J Lamoreaux</person>
+                <title>Чтение Библии</title>
+                <description>Иов 33:1—25</description>
+                <lesson>7</lesson>
+                <time>4</time>
+            </student>
+        </treasures>
+        <ministry>
+            <student>
+                <person>C Caudill</person>
+                <assistant>C Tatum</assistant>
+                <title>Первое посещение</title>
+                <description>предложи приглашение на региональный конгресс 2016 года, используя возможное преподнесение</description>
+                <lesson>24</lesson>
+                <time>2</time>
+            </student>
+            <student>
+                <person>J Joseph</person>
+                <assistant>L Kravchenko</assistant>
+                <title>Повторное посещение</title>
+                <description>fg урок 12, абз. 4, 5. Повторно посети того, кто взял приглашение на конгресс. Заложи основание для следующего посещения</description>
+                <lesson>6</lesson>
+                <time>4</time>
+            </student>
+            <student>
+                <person>E Sanchez</person>
+                <assistant>A Shkuratov</assistant>
+                <title>Изучение Библии</title>
+                <description>jl урок 11. Побуди изучающего посетить предстоящий конгресс</description>
+                <lesson>8</lesson>
+                <time>6</time>
+            </student>
+        </ministry>
+        <living>
+            <song>124</song>
+            <part>
+                <title>«Напоминания, связанные с конгрессом»</title>
+                <person>A Lamoreaux</person>
+                <time>8</time>
+            </part>
+            <part>
+                <title>Местные потребности - Пунктуальность</title>
+                <person>E Obertautsch</person>
+                <time>7</time>
+            </part>
+            <study>
+                <material>ia гл. 14, абз. 1—13</material>
+                <conductor>K Lamoreaux</conductor>
+                <reader>D Bazhin</reader>
+                <time>30</time>
+            </study>
+        </living>
+        <cSong>21</cSong>
+        <closing>D Caudill</closing>
+    </week>
+</schedules>
